@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "313260436406",
+    "project_id": "run-it-up-sob-2025",
+    "storage_bucket": "run-it-up-sob-2025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313260436406:android:d425ae5eb286423249ef17",
+        "android_client_info": {
+          "package_name": "com.example.run_it_up"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf9xz_TNnnOloo_W-y6pNx2bU7DHxED4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
