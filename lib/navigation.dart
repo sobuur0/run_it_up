@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:run_it_up/homescreen.dart';
-import 'package:run_it_up/login.dart';
+import 'package:run_it_up/auth/login.dart';
 import 'package:run_it_up/profile.dart';
 import 'package:run_it_up/settings.dart';
-import 'package:run_it_up/signup.dart';
+import 'package:run_it_up/auth/signup.dart';
 import 'package:run_it_up/splashscreen.dart';
 
 final router = GoRouter(
